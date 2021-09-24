@@ -1,5 +1,5 @@
 User-Agent: *
 Disallow:
 Allow: /
-Sitemap: https://puhex.com/sitemap.xml 
+Sitemap: https://betinmalta.com/sitemap.xml 
 
